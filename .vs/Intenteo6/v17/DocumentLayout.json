@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pruebapaljair\\intenteo6\\views\\carroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\carroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pruebapaljair\\intenteo6\\controllers\\carroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\carroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pruebapaljair\\intenteo6\\models\\dto\\carrocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\models\\dto\\carrocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Views\\Carroes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Carroes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Views\\Carroes\\Create.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Carroes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T01:17:08.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarroCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Models\\DTO\\CarroCreateDTO.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Models\\DTO\\CarroCreateDTO.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Models\\DTO\\CarroCreateDTO.cs",
+              "RelativeToolTip": "Intenteo6\\Models\\DTO\\CarroCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:16:35.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarroesController.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Controllers\\CarroesController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\CarroesController.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PruebaPalJair\\Intenteo6\\Controllers\\CarroesController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\CarroesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwK8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:03:24.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
